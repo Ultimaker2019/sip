@@ -28,7 +28,7 @@
  */
 #undef slots
 
-
+#include "math.h"
 #include <Python.h>
 
 /*
